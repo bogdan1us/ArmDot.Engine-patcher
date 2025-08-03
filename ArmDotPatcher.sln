@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmDotPatcher", "ArmDotPatcher.csproj", "{01A15B45-F8EB-4C0C-B0F8-E5B04AA8F6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A15B45-F8EB-4C0C-B0F8-E5B04AA8F6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A15B45-F8EB-4C0C-B0F8-E5B04AA8F6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A15B45-F8EB-4C0C-B0F8-E5B04AA8F6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A15B45-F8EB-4C0C-B0F8-E5B04AA8F6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3D89CC-0674-4AD3-A5E2-3410C7ED6A25}
+	EndGlobalSection
+EndGlobal
