@@ -7,3 +7,6 @@ It searches for methods in the `ArmDot.Engine.CodeConverters.HighLevel` namespac
 This patcher is useful for reverse engineers and security researchers analyzing protected .NET code without being limited by trial expiration.
 
 > ⚠️ For educational and research purposes only.
+
+
+By https://t.me/dotnetreverse
